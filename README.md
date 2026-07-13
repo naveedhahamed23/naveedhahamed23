@@ -1,24 +1,84 @@
 <div align="center">
 
-# Hi, I'm Naveedh Ahamed
+# 👋 Hello, I'm Naveedh Ahamed
 
-### Backend Developer • Java Enthusiast 
+### Backend Developer • Java • Spring Boot • SQL
 
-Building backend applications with Java while continuously improving my problem-solving skills through Data Structures & Algorithms.
+Building scalable backend applications while continuously improving my problem-solving skills.
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=naveedhahamed23&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+[Portfolio](https://naveedhahamed23.github.io/portfolio/) •
+[LinkedIn](www.linkedin.com/in/naveedh-ahamed-89b659370) •
+[Email](mailto:naveedhahamed23@gmail.com)
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student with a strong interest in backend development and software engineering.
+```java
+public class Naveedh {
 
-I enjoy building applications, learning new technologies, and solving algorithmic problems that strengthen my programming fundamentals. My current focus is on developing scalable backend applications using Java and Spring Boot while continuously improving my understanding of databases, REST APIs, and system design.
+    String role = "Backend Developer";
+
+    String[] languages = {
+        "Java",
+        "SQL",
+        "JavaScript"
+    };
+
+    String[] backend = {
+        "Spring Boot",
+        "REST APIs",
+        "MySQL"
+    };
+
+    String currentFocus =
+        "Building scalable backend applications.";
+
+    String goal =
+        "Software Engineer";
+}
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🚀 LeetCode Tracker
+
+A Spring Boot application for tracking coding progress using REST APIs and MySQL.
+
+**Tech**
+
+`Java` `Spring Boot` `MySQL` `REST API`
+
+---
+
+## 🌐 Portfolio Website
+
+Personal portfolio showcasing projects, skills, and my learning journey.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## 📚 DSA Java
+
+A structured collection of Data Structures & Algorithms solutions.
+
+Topics include
+
+- Arrays
+- Strings
+- Hashing
+- Binary Search
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
 
 ---
 
@@ -27,87 +87,20 @@ I enjoy building applications, learning new technologies, and solving algorithmi
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql"/>
 </p>
 
-### Frameworks & Tools
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,git,github,maven,postman,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=spring,maven"/>
 </p>
 
----
+### Tools
 
-# 📚 Currently Learning
-
-* 🌱 Spring Boot
-* 🔐 Spring Security
-* 🗄️ Hibernate & JPA
-* 🔑 JWT Authentication
-* 🐳 Docker
-* ☁️ Deployment
-* 🏗️ System Design Fundamentals
-
----
-
-# 📌 Featured Projects
-
-## 🚀 LeetCode Tracker
-
-A backend application built with Spring Boot that helps track solved coding problems using REST APIs and MySQL.
-
-**Tech Stack**
-
-* Java
-* Spring Boot
-* MySQL
-* REST API
-* Maven
-
----
-
-## 📚 DSA Java LeetCode Solutions
-
-A well-organized collection of Data Structures & Algorithms solutions implemented in Java.
-
-Topics include:
-
-* Arrays
-* Strings
-* Hashing
-* Binary Search
-* Sliding Window
-* Two Pointers
-* Linked Lists
-* Stack
-* Queue
-* Trees
-* Graphs
-* Dynamic Programming
-
----
-
-## 🌐 Personal Portfolio
-
-A responsive portfolio website showcasing my projects, skills, and learning journey.
-
-**Built With**
-
-* HTML
-* CSS
-* JavaScript
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Master Core Java
-* 🚀 Build multiple Spring Boot projects
-* 📚 Solve 300+ LeetCode problems
-* 🔐 Learn Spring Security & JWT
-* 🐳 Learn Docker
-* ☁️ Deploy backend applications
-* 🤝 Contribute to Open Source
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman"/>
+</p>
 
 ---
 
@@ -129,39 +122,48 @@ A responsive portfolio website showcasing my projects, skills, and learning jour
 
 ---
 
-# 🛠️ Development Workflow
+# 📅 Currently Working On
+
+- 🚀 Spring Boot
+- 🔐 Spring Security
+- 🗄 Hibernate & JPA
+- 🐳 Docker
+- ☁ Deployment
+- 📚 System Design
+
+---
+
+# 🎯 2026 Roadmap
+
+- ✅ Master Core Java
+- 🚀 Build Production Ready APIs
+- 🔐 Learn Authentication & Authorization
+- 🐳 Docker
+- ☁ Deploy Applications
+- ⚙ Learn Microservices
+- 🤝 Contribute to Open Source
+
+---
+
+# 📊 Profile Overview
 
 ```text
-Idea
-  ↓
-Design
-  ↓
-Code
-  ↓
-Debug
-  ↓
-Test
-  ↓
-Deploy
-  ↓
-Improve
+Backend Development   █████████░░ 85%
+
+Java                  ██████████░ 90%
+
+Spring Boot           ███████░░░░ 70%
+
+SQL                   ████████░░░ 80%
+
+Problem Solving       █████████░░ 85%
 ```
 
 ---
 
-# 📂 Repository Highlights
+# 🤝 Connect
 
-* 🚀 Backend Projects
-* 📚 Data Structures & Algorithms
-* 🌐 Web Development
-* 💡 Learning Projects
-* 🧪 Experimentation
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
+<p>
 
 <a href="www.linkedin.com/in/naveedh-ahamed-89b659370">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -181,8 +183,8 @@ Improve
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
-*"The best way to learn is to build."*
+*"First, solve the problem. Then, write the code."*
 
 </div>
