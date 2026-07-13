@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Naveedh Ahamed
+#  Hello, I'm Naveedh Ahamed
 
 ### Backend Developer • Java • Spring Boot • SQL
 
