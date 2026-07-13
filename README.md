@@ -45,7 +45,7 @@ public class Naveedh {
 
 # 🚀 Featured Projects
 
-## 🚀 LeetCode Tracker
+## 🚀 PrepFlow
 
 A Spring Boot application for tracking coding progress using REST APIs and MySQL.
 
