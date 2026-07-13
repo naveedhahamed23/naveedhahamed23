@@ -106,13 +106,7 @@ Topics include
 
 # 📈 GitHub Analytics
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naveedhahamed23&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naveedhahamed23&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
