@@ -7,7 +7,7 @@
 Building scalable backend applications while continuously improving my problem-solving skills.
 
 [Portfolio](https://naveedhahamed23.github.io/portfolio/) •
-[LinkedIn](www.linkedin.com/in/naveedh-ahamed-89b659370) •
+[LinkedIn](www.linkedin.com/in/naveedh-ahamed-89b659370)•
 [Email](mailto:naveedhahamed23@gmail.com)
 
 </div>
